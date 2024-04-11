@@ -3,3 +3,6 @@
 
 # Ignore all .env files in any directory named "Backend"
 Backend/*.env
+
+
+*node_modules
