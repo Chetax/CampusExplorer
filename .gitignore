@@ -2,4 +2,4 @@
 *.env
 
 # Ignore all .env files in any directory named "Backend"
-Backend/**/*.env
+Backend/*.env
